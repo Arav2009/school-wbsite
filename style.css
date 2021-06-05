@@ -1,0 +1,15 @@
+body{
+text-align: center;
+background-color:orange;
+color:chartreuse;
+
+}
+img{
+width:200px;
+border-radius:50px;
+
+}
+.images{
+display: flex;
+justify-content: center;
+}
